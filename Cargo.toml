@@ -6,7 +6,7 @@ members = [
 ]
 
 [package]
-name = "async-stripe"
+name = "jwiesler-async-stripe"
 version = "0.34.3"
 description = "API bindings for the Stripe HTTP API"
 rust-version = "1.68.0"
