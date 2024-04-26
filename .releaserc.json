@@ -2,7 +2,7 @@
   "branches": ["master"],
   "plugins": [
     [
-      "@semantic-release-cargo/semantic-release-cargo",
+      "@buehler/semantic-release-cargo",
       {
         "features": {
           "async-stripe": ["runtime-tokio-hyper"]
